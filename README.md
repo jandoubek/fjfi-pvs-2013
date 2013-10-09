@@ -40,3 +40,14 @@ Team:
 *	Bc. Tomáš Juřík
 *	Bc. Vladislav Klíma
 *	Bc. Martin Sochor 
+	
+
+*Android aplikace "Simply Reminder"*
+------------------------------------
+- Poznámkový blok
+- Jednoduchý kalendář
+- Připomínky
+- Seznam kontaktů (možnost importu ze Sim/SD/google/..)
+- Případně rodokmen a sociální vztahy
+
+Možnost exportu dat z každé části, nebo i z celku.
