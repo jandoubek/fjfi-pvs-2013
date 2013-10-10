@@ -36,7 +36,6 @@ Team:
 *	Bc. Kateřina Benetková
 *	Bc. Petr Fořt
 *	Bc. Martin Fous
-*	Bc. Barbora Huňková
 *	Bc. Tomáš Juřík
 *	Bc. Vladislav Klíma
 *	Bc. Martin Sochor 
