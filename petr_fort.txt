@@ -1,0 +1,16 @@
+Petr Fořt
+
+Projekt Guide.ME
+
+1. týden
+- Příprava tvorby map
+ * funkce Create map(jméno, autor, ..)
+ * funkce Create first node(..) // nutné znát natočení prvního bodu - kompas
+ * funkce Add node(idn,název,popis,id_nové_hrany, ..) // přidání jakékoli hrany kromě první, rovnou vytvoří hranu (hrany?)
+- Také můžu nápomoci při tvorbě počáteční dokumentace, přehledné tvorbě GUI a loga aplikace.
+- Pokus o vVytvoření prvních testovacích uzlů a hran
+
+Na další týdny plánováno:
+- Založení FTP repozitáře pro ukládání map v XML (http://kmlinux.fjfi.cvut.cz/...)
+- Propracování webového rozhraní v PHP
+- Tvorba uživatelské dokumentace
