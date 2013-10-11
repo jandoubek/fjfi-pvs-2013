@@ -1,0 +1,4 @@
+Václav Honzík
+Team rozvrh
+
+Export zvolené datové reprezentace do iCal a případně dalších formátů pro kalendáře.
