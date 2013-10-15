@@ -1,0 +1,3 @@
+Vladislav Klíma
+Tým Guide.me 
+ Android GUI, komunikace se serverem
